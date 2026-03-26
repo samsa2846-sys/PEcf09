@@ -4,6 +4,8 @@ venv/
 .venv/
 .env
 .env.local
+gh.txt
+**/gh.txt
 *.db
 faiss_storage/
 logs_export.csv
